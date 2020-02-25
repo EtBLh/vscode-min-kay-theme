@@ -4,6 +4,10 @@
   "description": "kay but minimal",
   "version": "1.0.0",
   "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EtBLh/vscode-min-kay-theme.git"
+  },
   "publisher": "etblh",
   "engines": {
     "vscode": "^1.12.0"

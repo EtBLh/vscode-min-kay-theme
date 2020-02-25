@@ -1,0 +1,23 @@
+{
+  "name": "min-kay",
+  "displayName": "Min-Kay theme",
+  "description": "kay but minimal",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "publisher": "etblh",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MinKay Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark.json"
+      }
+    ]
+  }
+}

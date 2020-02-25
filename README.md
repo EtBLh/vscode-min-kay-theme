@@ -1,4 +1,10 @@
 # Min-Kay theme
 
 Kay based, minimal theme.  
-Focus on code.  
+Dark theme provided exclusively. 
+
+## Installation
+
+Download the vsix file;  
+Run `code --install-extension <vsix-path>`
+
